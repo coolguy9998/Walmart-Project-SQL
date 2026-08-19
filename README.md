@@ -12,7 +12,6 @@ Oracle SQL database, validating financial relationships, and performing
 financial analysis through SQL queries.
 
 ## Tools Used
-
 - Oracle SQL
 - Oracle FreeSQL / SQL Developer
 - Microsoft Excel
